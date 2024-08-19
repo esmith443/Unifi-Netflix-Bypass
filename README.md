@@ -1,5 +1,11 @@
 # Unifi-Netflix-Bypass
 Unifi Policy-Based Route for Netflix
+
+This is for users who want to access a Netflix account without purchasing an additional "Home Location"
+
+> [!IMPORTANT]
+> This guide only works if both locations have a UDM device.
+
 ## Setting up the Host VPN
 > [!NOTE]
 > The host side of the VPN is going to be the "Home" location of the Netflix account
