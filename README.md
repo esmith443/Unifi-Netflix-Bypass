@@ -38,3 +38,22 @@ Unifi Policy-Based Route for Netflix
  - Select the .conf file we downloaded earlier
 
  ![alt text](<6.png>)
+
+## Setting up the Routing
+
+On the Client Side
+- Navigate to Settings > Routing > Policy-Based Routes
+  - Give it a name
+  - Select "Specific Traffic" for What to Route?
+  - Select "All Devices" for Source
+  - Delect "Domain Name" for Destination
+  - Select your Cliant VPN from the Interface Drop down. (Netflix Bypass in my example)
+  - Leave Fallback unchecked
+  - Click "Batch Add"
+
+ ![alt text](<7.png>)
+
+- Download the Netflix Url file [Here](https://github.com/esmith443/Unifi-Netflix-Bypass/blob/main/Netflix%20Urls.txt)
+- Press the Download Raw File button in the top right
+
+ ![alt text](<8.png>)
