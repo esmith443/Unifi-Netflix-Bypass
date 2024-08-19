@@ -71,7 +71,7 @@ On the Client Side
 
  ![alt text](<IMGs/7.png>)
 
-- Download the Netflix Url file [Here](https://github.com/esmith443/Unifi-Netflix-Bypass/blob/main/Netflix%20Urls.txt)
+- Download the Netflix Url file [Here](https://github.com/esmith443/Unifi-Netflix-Bypass/blob/main/NetflixURLs.txt)
   - Press the Download Raw File button in the top right
 
  ![alt text](<IMGs/8.png>)
