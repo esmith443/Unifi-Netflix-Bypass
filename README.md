@@ -4,12 +4,19 @@ Unifi Policy-Based Route for Netflix
 This is for users who want to access a Netflix account without purchasing an additional "Home Location"
 
 > [!IMPORTANT]
-> This guide only works if both locations have a Unifi Cloud Gateway.
+> 1. This guide only works if both locations have a Unifi Cloud Gateway.
 > [Here](https://store.ui.com/us/en?category=all-unifi-cloud-gateways)
+>
+> 2. Netflix has IPv6 addresses and Unifi's Policy-Based Routes do not work for IPv6.
+>    - A workaround is to disable IPv6 under Settings > Internet > WAN1
+>
+> 
+>  ![alt text](<IMGs/13.png>)
 
 ## Setting up the Host VPN
 > [!NOTE]
 > The host side of the VPN is going to be the "Home" location of the Netflix account
+> Unifi's Policy-Based Routes do not work for IPv6.
 
 - Navigate to Settings > VPN > VPN Server
   - Select "WireGuard"
