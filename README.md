@@ -57,3 +57,19 @@ On the Client Side
 - Press the Download Raw File button in the top right
 
  ![alt text](<8.png>)
+
+- Click "Import from a File"
+
+ ![alt text](<9.png>)
+
+- Select the "Netflix Urls.txt" file you downloaded
+
+ ![alt text](<10.png>)
+
+- Click "Add"
+
+ ![alt text](<11.png>)
+
+- Click "Add Entry"
+
+ ![alt text](<12.png>)
