@@ -4,7 +4,8 @@ Unifi Policy-Based Route for Netflix
 This is for users who want to access a Netflix account without purchasing an additional "Home Location"
 
 > [!IMPORTANT]
-> This guide only works if both locations have a UDM device.
+> This guide only works if both locations have a Unifi Cloud Gateway.
+> [Here](https://store.ui.com/us/en?category=all-unifi-cloud-gateways)
 
 ## Setting up the Host VPN
 > [!NOTE]
