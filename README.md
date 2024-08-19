@@ -3,7 +3,7 @@ Unifi Policy-Based Route for Netflix
 
 This is for users who want to access a Netflix account without purchasing an additional "Home Location"
 
-I will update the "Netflix Urls.txt" as I discover more.
+I will update the "NetflixURLs.txt" as I discover more.
 
 > [!IMPORTANT]
 > 1. This guide only works if both locations have a Unifi Cloud Gateway.
@@ -80,7 +80,7 @@ On the Client Side
 
  ![alt text](<IMGs/9.png>)
 
-- Select the "Netflix Urls.txt" file you downloaded
+- Select the "NetflixURLs.txt" file you downloaded
 
  ![alt text](<IMGs/10.png>)
 
