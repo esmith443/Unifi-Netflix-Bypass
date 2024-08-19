@@ -54,7 +54,7 @@ On the Client Side
   - Give it a name
   - Select "Specific Traffic" for What to Route?
   - Select "All Devices" for Source
-  - Delect "Domain Name" for Destination
+  - Select "Domain Name" for Destination
   - Select your Cliant VPN from the Interface Drop down. (Netflix Bypass in my example)
   - Leave Fallback unchecked
   - Click "Batch Add"
