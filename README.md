@@ -8,7 +8,8 @@ This is for users who want to access a Netflix account without purchasing an add
 > [Here](https://store.ui.com/us/en?category=all-unifi-cloud-gateways)
 >
 > 2. Netflix has IPv6 addresses and Unifi's Policy-Based Routes do not work for IPv6.
->    - A workaround is to disable IPv6 under Settings > Internet > WAN1
+>    - A workaround is to disable IPv6 (Host and Client)
+>    - Settings > Internet > WAN1
 >
 > 
 >  ![alt text](<IMGs/13.png>)
