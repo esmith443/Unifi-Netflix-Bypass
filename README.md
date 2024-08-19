@@ -5,7 +5,7 @@ Unifi Policy-Based Route for Netflix
 > The host side of the VPN is going to be the "Home" location of the Netflix account
 
 - Navigate to Settings > VPN > VPN Server
-  - Select WireGuard
+  - Select "WireGuard"
 
 ![alt text](<1.png>)
 
@@ -28,3 +28,13 @@ Unifi Policy-Based Route for Netflix
   - Click "Create New"
  
  ![alt text](<4.png>)
+
+- Select "WireGuard"
+  - Give it a name
+  - Press "Upload"
+
+ ![alt text](<5.png>)
+
+ - Select the .conf file we downloaded earlier
+
+ ![alt text](<6.png>)
