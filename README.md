@@ -29,7 +29,7 @@ This is for users who want to access a Netflix account without purchasing an add
 ## Setting up the Client VPN
 
 > [!NOTE]
-> The client side of the VPN is where you want to access Netflix from whithout purchasing additional "home location" to the account.
+> The client side of the VPN is where you want to access Netflix from whithout purchasing an additional "home location" to the account.
 
 - Navigate to Settings > VPN > VPN Client
   - Click "Create New"
