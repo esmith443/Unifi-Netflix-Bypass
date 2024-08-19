@@ -19,6 +19,7 @@ This is for users who want to access a Netflix account without purchasing an add
 - Click "Add Client"
   - Give it a Name
   - Press the "Download" button next to the QR code
+  - Once Downloaded Press "Add"
 
  ![alt text](<IMGs/2.png>)
 
