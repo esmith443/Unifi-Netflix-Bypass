@@ -18,7 +18,8 @@ I will update the "NetflixURLs.txt" as I discover more.
 
 ## Setting up the Host VPN
 > [!NOTE]
-> The host side of the VPN is going to be the "Home" location of the Netflix account
+> The host side of the VPN is going to be the "Home" location of the Netflix account.
+>
 > Unifi's Policy-Based Routes do not work for IPv6.
 
 - Navigate to Settings > VPN > VPN Server
